@@ -1,8 +1,10 @@
-# whatstab
+# flutter-tabs-tryout
 
-A new flutter project.
+A flutter project to try out tabs;
+- Keep a counter per tab, increment-able via FloatingActionButton
+- Add / remove tabs at runtime
 
-## Getting Started
+####  Built with
 
-For help getting started with Flutter, view our online
-[documentation](http://flutter.io/).
+- [Flutter](https://flutter.io)
+- [IntelliJ IDEA Community Edition](http://www.jetbrains.org)
