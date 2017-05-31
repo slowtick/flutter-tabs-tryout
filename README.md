@@ -7,4 +7,4 @@ A flutter project to try out tabs;
 ####  Built with
 
 - [Flutter](https://flutter.io)
-- [IntelliJ IDEA Community Edition](http://www.jetbrains.org)
+- [IntelliJ IDEA Community Edition](https://www.jetbrains.com/idea/)
